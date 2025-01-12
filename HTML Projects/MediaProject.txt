@@ -1,0 +1,2 @@
+This will be a simple HTML project. The objective behind this project is to show how media can be added to a webpage using html.
+CSS and JS will be not used in this project
